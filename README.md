@@ -5,10 +5,10 @@ A clean and interactive Finance Dashboard built using React.js that allows users
 ---
 
 ## Live Demo
-https://your-project.vercel.app
+https://financeedashboard.netlify.app/
 
 ## GitHub Repository
-https://github.com/your-username/finance-dashboard-ui
+https://github.com/perfectcse/Finance-Dashboard-UI
 
 ---
 
